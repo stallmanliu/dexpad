@@ -1,0 +1,8 @@
+dex-touchpad/build/
+dex-touchpad/libs/
+.specstory/
+.cursorindexingignore
+*.keystore
+*.jks
+*.apk
+*.dex
